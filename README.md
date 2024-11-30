@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puritymasanya1
+- 👋 Hi, I’m Purity Masanya.
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning software development.
 
