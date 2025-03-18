@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Purity Masanya.
-- 👀 I’m interested in tech.
-- 🌱 I’m currently learning software development.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning python .
 
 <!---
 puritymasanya1/puritymasanya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
